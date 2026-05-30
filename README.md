@@ -1,180 +1,38 @@
-````md
-<div align="center">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBkeG1icHlna3Mxa2c5ODNwZnd0MXJqbTZqZDNoZjJwbTcwNXkwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="700"/>
-
-# 👋 Hi, I'm KetKhut Darong
-
-### 💻 Software Development Student | Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+Developer;Java+%7C+Python+Developer;Flutter+Mobile+Developer;Building+Modern+Applications;Always+Learning+New+Technologies" />
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-## 🚀 About Me
-
-```yaml
-Name: KetKhut Darong
-Education: Software Development Student
-Country: Cambodia 🇰🇭
-Role: Full Stack Developer
-Current Project: KsSeed Platform
-````
-
-* 🎓 Software Development Student
-* 💻 Passionate about Full Stack Development
-* 📱 Flutter Mobile Developer
-* 🌱 Building modern web and mobile applications
-* 🚀 Developing KsSeed Platform
-* ⚡ Always learning new technologies
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,java,python" />
-
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,javascript,typescript" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,figma" />
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 🌱 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌾 KsSeed Website
-
-Agricultural seed recommendation and management platform.
-
-</td>
-
-<td width="50%">
-
-### 🖥️ KsSeed Admin
-
-Management dashboard for inventory, users, and analytics.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☕ Cafe Management System
-
-Modern POS and management system.
-
-</td>
-
-<td width="50%">
-
-### 🛒 Supermarket Billing System
-
-Java Swing billing and inventory application.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building technology that creates real-world impact.
-
-⭐ Thanks for visiting my profile!
-
-</div>
-```
+# Hi there 👋
+
+As a Junior Software Developer with a strong passion for technology, I am driven by the challenge of crafting innovative solutions and bringing creative ideas to life. My journey into web development has been enriched by hands-on experience building projects that solve real-world problems.
+
+![Coding Penguin](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+
+## Technical Skills
+
+Here are the technologies I work with:
+
+### Languages & Frontend
+<img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/vue.js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/nuxt.js-00dc82?style=for-the-badge&logo=nuxt.js&logoColor=white">
+
+### Backend & Databases
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/sequelize-52b0e7?style=for-the-badge&logo=sequelize&logoColor=white">
+
+### Cloud, DevOps & Tools
+<img src="https://img.shields.io/badge/amazon_rds-527fff?style=for-the-badge&logo=amazon-rds&logoColor=white">
+<img src="https://img.shields.io/badge/amazon_ec2-ff9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
+<img src="https://img.shields.io/badge/amazon_s3-569a31?style=for-the-badge&logo=amazon-s3&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/pm2-2b037a?style=for-the-badge&logo=pm2&logoColor=white">
+<img src="https://img.shields.io/badge/apache_airflow-017cee?style=for-the-badge&logo=apache-airflow&logoColor=white">
+<img src="https://img.shields.io/badge/clickhouse-ffcc01?style=for-the-badge&logo=clickhouse&logoColor=black">
