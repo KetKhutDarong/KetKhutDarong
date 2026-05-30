@@ -1,6 +1,6 @@
 # Hi there 👋
 
-As a Junior Software Developer with a strong passion for technology, I am driven by the challenge of crafting innovative solutions and bringing creative ideas to life. My journey into web development has been enriched by hands-on experience building projects that solve real-world problems.
+Hi! I’m a developer who loves blending creativity with clean code. From designing intuitive interfaces to engineering robust backends, I am driven by the process of bringing innovative ideas from concept to reality. My focus is on creating technology that makes life easier and more connected.
 
 <p align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Penguin" width="400" />
