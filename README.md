@@ -1,57 +1,180 @@
+````md
+<div align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBkeG1icHlna3Mxa2c5ODNwZnd0MXJqbTZqZDNoZjJwbTcwNXkwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="700"/>
+
 # 👋 Hi, I'm KetKhut Darong
 
 ### 💻 Software Development Student | Full Stack Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+Developer;Java+%7C+Python+%7C+C%2B%2B;Flutter+Mobile+Developer;Always+Learning+New+Technology" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+Developer;Java+%7C+Python+Developer;Flutter+Mobile+Developer;Building+Modern+Applications;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Software Development Student
-- 💡 Passionate about Full Stack Development
-- 🌱 Currently learning Advanced Web & Mobile Development
-- ⚡ Love building modern UI/UX applications
-- 🇰🇭 From Cambodia
+```yaml
+Name: KetKhut Darong
+Education: Software Development Student
+Country: Cambodia 🇰🇭
+Role: Full Stack Developer
+Current Project: KsSeed Platform
+````
+
+* 🎓 Software Development Student
+* 💻 Passionate about Full Stack Development
+* 📱 Flutter Mobile Developer
+* 🌱 Building modern web and mobile applications
+* 🚀 Developing KsSeed Platform
+* ⚡ Always learning new technologies
 
 ---
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery" />
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Languages
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+<img src="https://skillicons.dev/icons?i=nodejs,java,python" />
 
 ### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,javascript,typescript" />
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,figma" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🌱 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌾 KsSeed Website
+
+Agricultural seed recommendation and management platform.
+
+</td>
+
+<td width="50%">
+
+### 🖥️ KsSeed Admin
+
+Management dashboard for inventory, users, and analytics.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☕ Cafe Management System
+
+Modern POS and management system.
+
+</td>
+
+<td width="50%">
+
+### 🛒 Supermarket Billing System
+
+Java Swing billing and inventory application.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
-  </a>
+<div align="center">
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building technology that creates real-world impact.
+
+⭐ Thanks for visiting my profile!
+
+</div>
+```
