@@ -2,7 +2,9 @@
 
 As a Junior Software Developer with a strong passion for technology, I am driven by the challenge of crafting innovative solutions and bringing creative ideas to life. My journey into web development has been enriched by hands-on experience building projects that solve real-world problems.
 
-![Coding Penguin](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Penguin" width="400" />
+</p>
 
 ## Technical Skills
 
